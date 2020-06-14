@@ -1,5 +1,6 @@
 # automaton
 **french language is used in the program instead of english for pedagogical reasons**
+**you need to install graphviz**
 ## Automaton Creation
 ### States
 To define a state we use this syntax :Etat("name of the state",unique id {int})
