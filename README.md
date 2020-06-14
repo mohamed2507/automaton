@@ -10,7 +10,8 @@ Transitions must be in this format : [[state1,letter,state2],[state3,letter,stat
 Automate(alphabet,initial state,final states,states,transitions)
 ## Operations
 ## Display
-you can display your automaton using the function **show** with the following syntax: automaton.show(name of the automate)
+you can display your automaton using the function **show** with the following syntax: automaton.show(name of the automate).
+a folder by the name **automate** where you will find your automaton in **PDF** file.
 ## Mirror 
 you can transform your automaton into its mirror using the function **mirror** with the following syntax: automaton.mirror()
 ## Reduction
